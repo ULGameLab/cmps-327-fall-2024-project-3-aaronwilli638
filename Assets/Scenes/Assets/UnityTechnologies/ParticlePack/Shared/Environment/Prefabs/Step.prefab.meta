@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb24cffd068d3a441916d99d6dd765f4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/ParticlePack/Shared/Environment/Prefabs/Step.prefab
+  uploadId: 564952

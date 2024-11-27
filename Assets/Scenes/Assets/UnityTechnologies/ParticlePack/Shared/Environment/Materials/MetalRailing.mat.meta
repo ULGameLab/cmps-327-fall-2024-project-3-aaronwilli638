@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9bdd0ddcc0794c048ad2f865c6560e2f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/ParticlePack/Shared/Environment/Materials/MetalRailing.mat
+  uploadId: 564952

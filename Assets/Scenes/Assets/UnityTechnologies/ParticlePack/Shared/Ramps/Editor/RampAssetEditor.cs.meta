@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e4a87219a76d8324ea714fa65ed794bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/ParticlePack/Shared/Ramps/Editor/RampAssetEditor.cs
+  uploadId: 564952

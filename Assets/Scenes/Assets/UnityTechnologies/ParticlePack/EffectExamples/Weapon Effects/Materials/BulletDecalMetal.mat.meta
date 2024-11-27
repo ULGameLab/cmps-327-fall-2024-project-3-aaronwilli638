@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 92f4290f20cd13e42befd5ce29049f87
+timeCreated: 1473687979
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/ParticlePack/EffectExamples/Weapon Effects/Materials/BulletDecalMetal.mat
+  uploadId: 564952

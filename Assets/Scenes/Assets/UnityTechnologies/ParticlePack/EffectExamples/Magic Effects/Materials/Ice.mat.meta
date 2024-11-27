@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9220fc883d30b8a4da67864163689734
+timeCreated: 1475501286
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/ParticlePack/EffectExamples/Magic Effects/Materials/Ice.mat
+  uploadId: 564952

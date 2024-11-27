@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bf6d4576f08d83d44a7f0a0ba5e539db
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 86517
+  packageName: WorldSkies Free
+  packageVersion: 1.0
+  assetPath: Assets/WorldSkies/Demo/Scripts/LookCamera.cs
+  uploadId: 170257

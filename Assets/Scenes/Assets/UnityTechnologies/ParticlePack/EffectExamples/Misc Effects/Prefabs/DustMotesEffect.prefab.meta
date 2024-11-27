@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79b49e22d1f6df947a97b40f0e8ba567
+timeCreated: 1473946479
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/ParticlePack/EffectExamples/Misc Effects/Prefabs/DustMotesEffect.prefab
+  uploadId: 564952

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c9f20512a6b584e49a1c86593bea36ba
+timeCreated: 1473955917
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 1.7
+  assetPath: Assets/UnityTechnologies/ParticlePack/EffectExamples/Weapon Effects/Materials/BulletDecalWood.mat
+  uploadId: 564952
